@@ -3,4 +3,3 @@ In this project, I used Knowledge distilation approach to generate face swap and
 I will upload model weights in google drive.
 Most of the source code is taken from SimSwap, however there are few changes are made for use of knowledge distilation method.
 I have uploaded demo image from my research paper published to university, meantime I will update this repo.
-![screenshot](demoswap.JPG)
