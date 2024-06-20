@@ -1,5 +1,1 @@
-This was my project during my university studies in 2023. 
-In this project, I used Knowledge distilation approach to generate face swap and SimSwap as primary teaching architecture including other multiple loss functions.
-I will upload model weights in google drive.
-Most of the source code is taken from SimSwap, however there are few changes are made for use of knowledge distilation method.
-I have uploaded demo image from my research paper published to university, meantime I will update this repo.
+# FaceSwap using facial identity manipulation through latent space
